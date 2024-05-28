@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098765453963",
+    "project_id": "cik-grad-proj",
+    "storage_bucket": "cik-grad-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098765453963:android:1d19e3d6d76212dee1e28e",
+        "android_client_info": {
+          "package_name": "com.example.projectmanagment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU79YsmL_OfUcs4Rji5NL8G03SLdPwMP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
